@@ -1,4 +1,6 @@
-<h2 align="center">👋 Olá, eu sou [Seu Nome]!</h2>
+<p align="center">
+  <img src="https://www.icegif.com/wp-content/uploads/2022/11/one-piece-icegif-68.gif" alt="One Piece GIF" width="300"/>
+</p>
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – último período  
 💻 Focado em me tornar um **Desenvolvedor Backend**  
@@ -26,7 +28,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JCaioF&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SeuUsuarioGitHub&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JCaioF&theme=tokyonight" />
 </p>
 
 ---
