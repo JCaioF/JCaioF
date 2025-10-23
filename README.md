@@ -1,4 +1,4 @@
-<h2 align="center">👋 Opa, eu sou [Caio]!</h2>
+<h2 align="center">👋 Opa, eu sou Caio!</h2>
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – último período  
 💻 Focado em me tornar um **Desenvolvedor Backend**  
@@ -19,14 +19,6 @@
 ### 🎮 Sobre mim
 💡 Sempre buscando aprender algo novo e evoluir a cada commit  
 🎮 Gamer nas horas vagas  
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SeuUsuarioGitHub&theme=tokyonight" />
-</p>
 
 ---
 
