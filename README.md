@@ -24,7 +24,7 @@
 
 ### 📫 Contato
 <p align="left">
-  <a href="www.linkedin.com/in/caio-ferreira-2a5394327" target="_blank">
+  <a href="https://www.linkedin.com/in/caio-ferreira-2a5394327/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:CaioJof@gmail.com">
