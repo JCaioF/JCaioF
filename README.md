@@ -1,48 +1,31 @@
-<p align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2022/11/one-piece-icegif-68.gif" alt="One Piece GIF" width="300"/>
-</p>
+<img width=100% src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHF6dnFtN2s1aHVxZDZqbGs3cDdkaGIxdWpzdWZyMHF3aGV3cmp0cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zGvF3zPrFnvIA/giphy.gif"/>
+<br/> 
+<br/>
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – último período  
-💻 Focado em me tornar um **Desenvolvedor Backend**  
-🚀 Apaixonado por tecnologia, boas práticas e aprendizado contínuo  
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas – último período
+- 💻 Focado em me tornar um Desenvolvedor Backend
+- 🚀 Apaixonado por tecnologia, boas práticas e aprendizado contínuo
+- 🎓 Cursos de C# e (POO), Python, Banco de Dados
+- 💡 Sempre buscando aprender algo novo e evoluir a cada commit  
+- 🎮 Gamer nas horas vagas  
+- 📺 Apaixonado por boas séries  
 
----
-
-### 🧰 Tecnologias e Ferramentas
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
----
-
-### 🎮 Sobre mim
-💡 Sempre buscando aprender algo novo e evoluir a cada commit  
-🎮 Gamer nas horas vagas  
-📺 Apaixonado por boas séries  
-
----
-
-### 📊 GitHub Stats
+<br/>
+     📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JCaioF&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JCaioF&theme=tokyonight" />
-</p>
+</p><br>
 
----
+## 👨‍💻 Linguagens: 
+[![My Skills](https://skillicons.dev/icons?i=cs,javascript,java,nodejs,mongo,)](https://skillicons.dev)
 
-### 📫 Contato
+## ⚙️ Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=git,github,discord,vercel,vscode,notion,)](https://skillicons.dev)<br><br>
+
+<h3 align="left">Contatos:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/SeuLinkedIn/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
+<a href="https://www.linkedin.com/in/caio-ferreira-2a539432/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="profile linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jcaiof/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a> <br><br>
 
 ⭐ _“Codando, aprendendo e construindo o futuro uma linha de código por vez.”_
