@@ -1,4 +1,4 @@
-<h2 align="center">👋 Opa, eu sou Caio!</h2>
+<h2 align="center">👋 Olá, eu sou [Seu Nome]!</h2>
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – último período  
 💻 Focado em me tornar um **Desenvolvedor Backend**  
@@ -19,15 +19,24 @@
 ### 🎮 Sobre mim
 💡 Sempre buscando aprender algo novo e evoluir a cada commit  
 🎮 Gamer nas horas vagas  
+📺 Apaixonado por boas séries  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JCaioF&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SeuUsuarioGitHub&theme=tokyonight" />
+</p>
 
 ---
 
 ### 📫 Contato
 <p align="left">
-  <a href="https://www.linkedin.com/in/caio-ferreira-2a5394327/" target="_blank">
+  <a href="https://www.linkedin.com/in/SeuLinkedIn/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:CaioJof@gmail.com">
+  <a href="mailto:seuemail@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
