@@ -25,7 +25,7 @@
 
 <h3 align="left">Contatos:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/caio-ferreira-2a539432/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="profile linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/caio-ferreira-2a5394327/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="profile linkedin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jcaiof/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a> <br><br>
 
 ⭐ _“Codando, aprendendo e construindo o futuro uma linha de código por vez.”_
